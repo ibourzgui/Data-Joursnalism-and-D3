@@ -6,6 +6,6 @@ There is a correlation between poverty levels and low healthcare.
 
 Dataset source: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
 
-Html page: https://ibourzgui.github.io/Data-Joursnalism-and-D3/.
+Html page: https://ibourzgui.github.io/Data-Joursnalism-and-D3/
 
 
